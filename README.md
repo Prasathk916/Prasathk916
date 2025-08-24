@@ -11,6 +11,7 @@
 ## ***Tech Stack🤖***
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qk-3RiV8dohBMcvkHlOUYvvoJdNWvBuXhA&s)![Alt Text](https://qbico.pl/wp-content/uploads/2021/03/ms-power-bi-main.webp)![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCabYF9ds2Xn6B67cHys0C1IYufBMUqIVBYsMBrspPPnw51BvYot26vtCug5PqzG0UNp4&usqp=CAU)
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-mKvRLZnhwQC44Haci9zQhFaKdzN7DBHVA&s)
+
 ***As a passionate and curious B.Tech Information Technology student, I am continuously learning and building projects that reflect my growing skills in software development, data structures, and emerging technologies. I use this GitHub space to document my journey, collaborate on meaningful projects, and contribute to the tech community. I'm always open to new opportunities, challenges, and collaborations—feel free to connect!***
 ### **Contact📞63818 00551**
 ### **Mail📧 kprasath275@gmail.com**
